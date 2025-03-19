@@ -5,9 +5,10 @@ url: "https://lowcodeai.github.io"
 
 # Secondary Parameters
 baseurl: "/web"
-header-img: img/home-bg.jpg
+header-img: img/web-bar.png
 headercolor: "#FFFFFF"
-logo: /web/img/logos/Project-Pages-New-Logo-Inverted.png
+# Removed template logo
+# logo: /web/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username: lowcodeai
