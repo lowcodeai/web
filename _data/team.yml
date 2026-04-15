@@ -24,12 +24,11 @@
   url: http://mined.gatech.edu/
   visible: false
 
-- name: Jessie Galasso-Carbonnel
-  role: Assistant Professor
-  # img: https://avatars.githubusercontent.com/u/79425174?v=4
-  img: jessie-image.png
-  bio: Research interests of Professor Jessie include software reverse engineering, knowledge extraction and representation, variability management and modeling, and software repository mining.
-  url: https://jgalasso.github.io//
+- name: Hyacinth Ali
+  role: Postdoctoral Fellow
+  img: hyacinth-image.png
+  bio: Research interests of Dr. Hyacinth include trusthworthy AI, Requirement Engineering for AI, Model-Driven Engineering, Cloud Computing, and Enterprise Application Integration.
+  url: https://hyacinth-ali.github.io/web/
   visible: true
 
 - name: Houari Sahraoui
@@ -39,11 +38,12 @@
   url: https://www.iro.umontreal.ca/~sahraouh/index_eng.html
   visible: true
 
-- name: Ulrich Aïvodji
+- name: Jessie Galasso-Carbonnel
   role: Assistant Professor
-  img: ulrich-image.png
-  bio: Research interests of Professor Ulrich include computer security, data privacy, optimization, and machine learning, with a special focus on various aspects of trustworthy machine learning, such as fairness, privacy-preserving machine learning, and explainability.
-  url: https://aivodji.github.io/
+  # img: https://avatars.githubusercontent.com/u/79425174?v=4
+  img: jessie-image.png
+  bio: Research interests of Professor Jessie include software reverse engineering, knowledge extraction and representation, variability management and modeling, and software repository mining.
+  url: https://jgalasso.github.io//
   visible: true
 
 - name: Foutse Khomh
@@ -53,9 +53,9 @@
   url: https://www.polymtl.ca/expertises/en/khomh-foutse
   visible: true
 
-- name: Hyacinth Ali
-  role: Postdoctoral Fellow
-  img: hyacinth-image.png
-  bio: Research interests of Dr. Hyacinth include trusthworthy AI, Requirement Engineering for AI, Model-Driven Engineering, Cloud Computing, and Enterprise Application Integration.
-  url: https://hyacinth-ali.github.io/web/
+- name: Ulrich Aïvodji
+  role: Assistant Professor
+  img: ulrich-image.png
+  bio: Research interests of Professor Ulrich include computer security, data privacy, optimization, and machine learning, with a special focus on various aspects of trustworthy machine learning, such as fairness, privacy-preserving machine learning, and explainability.
+  url: https://aivodji.github.io/
   visible: true

@@ -20,4 +20,3 @@ category: Survey
     colleagues and professional networks. Your participation and insights will
     be invaluable in shaping the future of AI model development.
   </p>
-</div>
