@@ -1,8 +1,12 @@
 ---
 layout: page
 ---
-{% for post in site.posts %}
-{% if post.category == page.category %}
+{{ content }}
+
+{% assign related_posts = site.posts | where: "category", page.category %}
+{% if related_posts.size > 0 %}
+<hr>
+{% for post in related_posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
@@ -19,5 +23,5 @@ layout: page
 	</div>
 </div>
 <hr>
-{% endif %}
 {% endfor %}
+{% endif %}
